@@ -15,7 +15,7 @@
 - Pygame library
  
 ### Install Dependencies
-```bash
+```bash 
 pip install pygame
 ```
 
