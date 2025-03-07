@@ -12,7 +12,7 @@
 ## Installation
 ### Prerequisites  
 - Python 3.8+
-- Pygame library 
+- Pygame library  
    
 ### Install Dependencies
 ```bash 
