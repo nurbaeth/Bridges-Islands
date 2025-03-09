@@ -10,7 +10,7 @@
 - Developed using Python and Pygame
 
 ## Installation
-### Prerequisites  
+### Prerequisites   
 - Python 3.8+
 - Pygame library  
    
